@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vaishnavi kannan\source\repos\consoleapplication1\consoleapplication1\source.cpp(203): error C2397: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\vaishnavi kannan\source\repos\consoleapplication1\consoleapplication1\source.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
